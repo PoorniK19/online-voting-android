@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vote</string>
+    <string name="mca">MCA</string>
+    <string name="sec">SECRETARY</string>
+    <string name="c1">Mary Jane</string>
+    <string name="c2">Abigail </string>
+    <string name="bp2">VOTE</string>
+    <string name="bpr">Result</string>
+    <string name="res">You have SUCCESSFULLY voted</string>
+</resources>
